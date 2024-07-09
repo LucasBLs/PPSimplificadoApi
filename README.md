@@ -9,7 +9,7 @@
 
 ## Descrição
 
-PPSimplificadoApi é uma API desenvolvida em ASP.NET Core para a prática, se baseando no desafio backend [Desafio Backend](https://github.com/PicPay/picpay-desafio-backend), utilizando SQL Server como banco de dados. Este projeto foi desenvolvido para fins de prática e para ser um exemplo público no GitHub.
+PPSimplificadoApi é uma API desenvolvida em ASP.NET Core para a prática, se baseando no [Desafio Backend do PicPay](https://github.com/PicPay/picpay-desafio-backend), utilizando SQL Server como banco de dados. Este projeto foi desenvolvido para fins de prática e para ser um exemplo público no GitHub.
 
 ## Requisitos
 
