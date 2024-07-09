@@ -32,7 +32,7 @@ PPSimplificadoApi é uma API desenvolvida em ASP.NET Core para a prática, se ba
     ```json
     {
       "ConnectionStrings": {
-        "DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;"
+        "DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;Trusted_Connection=False; TrustServerCertificate=True;"
       }
     }
     ```
