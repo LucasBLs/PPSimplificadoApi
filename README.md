@@ -15,8 +15,6 @@ PPSimplificadoApi é uma API desenvolvida em ASP.NET Core para a prática, se ba
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-- [Swagger](https://swagger.io/)
 
 ## Instalação
 
