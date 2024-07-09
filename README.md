@@ -1,8 +1,8 @@
 # PPSimplificadoApi
 
-![C#](https://img.shields.io/badge/C%23-8.0-purple?style=for-the-badge&logo=c-sharp)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-blueviolet?style=for-the-badge&logo=dotnet)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-8.0-success?style=for-the-badge&logo=nuget)
+![C#](https://img.shields.io/badge/C%23-12.0-purple?style=for-the-badge&logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.6-blueviolet?style=for-the-badge&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-8.6-success?style=for-the-badge&logo=nuget)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-brightgreen?style=for-the-badge&logo=swagger)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red?style=for-the-badge&logo=microsoftsqlserver)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=mit)
